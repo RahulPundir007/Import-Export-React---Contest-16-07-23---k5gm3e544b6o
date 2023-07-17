@@ -13,3 +13,4 @@ const App = () => {
 }
 
 
+export { Heading, SubHeading, InputQuery, SubmitButton };
